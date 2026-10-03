@@ -1,0 +1,73 @@
+{
+  "verified_at": "2026-10-04",
+  "owner": "zehaoli0324-cloud",
+  "hub": "Bio-ai-for-science-",
+  "projects": [
+    {
+      "upstream": "openai/plugins",
+      "sha": "5fd93af4cd0c623e020d0cc7e9ce178b4ac1f70f",
+      "date": "2026-09-28T17:08:07Z",
+      "path": "openai/plugins",
+      "description": "生命科学研究与 NGS 分析插件；重点看 plugins/ngs-analysis，研究插件单独标为专有",
+      "license": "混合：ngs-analysis 清单 MIT；life-science-research 清单 Proprietary；根目录未发现统一许可证"
+    },
+    {
+      "upstream": "anthropics/life-sciences",
+      "sha": "e96556b637b56d6cc3a5ad33987009be9e60aa5c",
+      "date": "2026-05-08T16:54:54Z",
+      "path": "anthropic/life-sciences",
+      "description": "生命科学技能及 MCP 插件目录；第三方服务器不一定在仓库内",
+      "license": "按技能目录核查；根目录未发现统一许可证"
+    },
+    {
+      "upstream": "NVIDIA-BioNeMo/bionemo-agent-toolkit",
+      "sha": "0b322cd4203e5120889ec00aafa65319c04935fd",
+      "date": "2026-10-01T21:52:17Z",
+      "path": "nvidia/bionemo-agent-toolkit",
+      "description": "科研 Agent 技能与 NIM/GPU 工具调用接口",
+      "license": "代码 Apache-2.0；技能和文档 CC-BY-4.0"
+    },
+    {
+      "upstream": "NVIDIA-BioNeMo/bionemo-recipes",
+      "sha": "4a287cbaf8ec633d4a3143027f1cb6f4b9d7787a",
+      "date": "2026-10-01T16:51:42Z",
+      "path": "nvidia/bionemo-recipes",
+      "description": "生物基础模型训练、适配和 GPU 加速配方",
+      "license": "Apache-2.0；模型权重另查"
+    },
+    {
+      "upstream": "NVIDIA-BioNeMo/proteina",
+      "sha": "a44b407daf6a5358e43cd68907f3e3f1cbc65fdc",
+      "date": "2025-07-24T19:05:40Z",
+      "path": "nvidia/proteina",
+      "description": "流模型蛋白结构生成研究实现",
+      "license": "自定义 NVIDIA License；不归为标准宽松开源"
+    },
+    {
+      "upstream": "NVIDIA-BioNeMo/nvMolKit",
+      "sha": "f8216a390ce91bbcca597b3ced0552a37bca4bb7",
+      "date": "2026-10-02T21:31:50Z",
+      "path": "nvidia/nvMolKit",
+      "description": "GPU 分子相似度、构象生成及几何优化",
+      "license": "Apache-2.0"
+    },
+    {
+      "upstream": "NVIDIA/cuEquivariance",
+      "sha": "70674ada7a00372e88ebe99969c700a6dcddd08f",
+      "date": "2026-09-24T00:25:54Z",
+      "path": "nvidia/cuEquivariance",
+      "description": "等变神经网络及结构预测计算加速",
+      "license": "仓库文件 Apache-2.0；外部 CUDA ops 另查"
+    },
+    {
+      "upstream": "NVIDIA-BioNeMo-blueprints/generative-virtual-screening",
+      "sha": "f3f1d381a3605d4f8e3d5556ea523b6022394132",
+      "date": "2025-11-07T19:16:17Z",
+      "path": "nvidia/generative-virtual-screening",
+      "description": "生成式虚拟筛选工作流蓝图；运行依赖单独授权的服务",
+      "license": "Apache-2.0；NIM 服务授权另查"
+    }
+  ],
+  "integration": "upstream-submodules",
+  "personal_forks_created": false
+}

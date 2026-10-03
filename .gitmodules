@@ -1,0 +1,24 @@
+[submodule "openai/plugins"]
+	path = openai/plugins
+	url = https://github.com/openai/plugins.git
+[submodule "anthropic/life-sciences"]
+	path = anthropic/life-sciences
+	url = https://github.com/anthropics/life-sciences.git
+[submodule "nvidia/bionemo-agent-toolkit"]
+	path = nvidia/bionemo-agent-toolkit
+	url = https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit.git
+[submodule "nvidia/bionemo-recipes"]
+	path = nvidia/bionemo-recipes
+	url = https://github.com/NVIDIA-BioNeMo/bionemo-recipes.git
+[submodule "nvidia/proteina"]
+	path = nvidia/proteina
+	url = https://github.com/NVIDIA-BioNeMo/proteina.git
+[submodule "nvidia/nvMolKit"]
+	path = nvidia/nvMolKit
+	url = https://github.com/NVIDIA-BioNeMo/nvMolKit.git
+[submodule "nvidia/cuEquivariance"]
+	path = nvidia/cuEquivariance
+	url = https://github.com/NVIDIA/cuEquivariance.git
+[submodule "nvidia/generative-virtual-screening"]
+	path = nvidia/generative-virtual-screening
+	url = https://github.com/NVIDIA-BioNeMo-blueprints/generative-virtual-screening.git
