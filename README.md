@@ -1,6 +1,8 @@
-# 生物 AI for Science：OpenAI、Anthropic、NVIDIA
+# 生物 AI for Science：Seed STEM 对标与开源项目地图
 
-核查日期：2026-10-04。整理生命科学相关的官方公开项目与闭源产品。
+核查日期：2026-10-04。整理 Seed STEM 值得对标的国外团队、生命科学相关的官方公开项目、闭源产品和 benchmark 方向。
+
+本仓库聚焦生物、结构生物学、蛋白设计、药物发现和科研 Agent，暂不纳入量子化学。Seed STEM 的完整对标建议先读 [Seed 对标地图](docs/seed-benchmark-map.md)，再查看下面固定版本的上游 submodule。
 
 ## 项目目录
 
@@ -35,6 +37,7 @@ python3 scripts/verify_submodules.py
 
 ## 清单
 
+- [Seed STEM 对标地图、具体开源项目与 benchmark 设计](docs/seed-benchmark-map.md)
 - [官方公开项目与许可证](docs/open-projects.md)
 - [闭源与受限项目](docs/closed-projects.md)
 - [固定版本记录](projects.json)
